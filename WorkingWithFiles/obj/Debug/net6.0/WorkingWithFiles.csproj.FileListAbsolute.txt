@@ -1,0 +1,15 @@
+C:\Users\forre\OneDrive\My Documents\IT_232_Software_Class\WorkingWithFiles\bin\Debug\net6.0\WorkingWithFiles.exe
+C:\Users\forre\OneDrive\My Documents\IT_232_Software_Class\WorkingWithFiles\bin\Debug\net6.0\WorkingWithFiles.deps.json
+C:\Users\forre\OneDrive\My Documents\IT_232_Software_Class\WorkingWithFiles\bin\Debug\net6.0\WorkingWithFiles.runtimeconfig.json
+C:\Users\forre\OneDrive\My Documents\IT_232_Software_Class\WorkingWithFiles\bin\Debug\net6.0\WorkingWithFiles.dll
+C:\Users\forre\OneDrive\My Documents\IT_232_Software_Class\WorkingWithFiles\bin\Debug\net6.0\WorkingWithFiles.pdb
+C:\Users\forre\OneDrive\My Documents\IT_232_Software_Class\WorkingWithFiles\obj\Debug\net6.0\WorkingWithFiles.csproj.AssemblyReference.cache
+C:\Users\forre\OneDrive\My Documents\IT_232_Software_Class\WorkingWithFiles\obj\Debug\net6.0\WorkingWithFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\forre\OneDrive\My Documents\IT_232_Software_Class\WorkingWithFiles\obj\Debug\net6.0\WorkingWithFiles.AssemblyInfoInputs.cache
+C:\Users\forre\OneDrive\My Documents\IT_232_Software_Class\WorkingWithFiles\obj\Debug\net6.0\WorkingWithFiles.AssemblyInfo.cs
+C:\Users\forre\OneDrive\My Documents\IT_232_Software_Class\WorkingWithFiles\obj\Debug\net6.0\WorkingWithFiles.csproj.CoreCompileInputs.cache
+C:\Users\forre\OneDrive\My Documents\IT_232_Software_Class\WorkingWithFiles\obj\Debug\net6.0\WorkingWithFiles.dll
+C:\Users\forre\OneDrive\My Documents\IT_232_Software_Class\WorkingWithFiles\obj\Debug\net6.0\refint\WorkingWithFiles.dll
+C:\Users\forre\OneDrive\My Documents\IT_232_Software_Class\WorkingWithFiles\obj\Debug\net6.0\WorkingWithFiles.pdb
+C:\Users\forre\OneDrive\My Documents\IT_232_Software_Class\WorkingWithFiles\obj\Debug\net6.0\WorkingWithFiles.genruntimeconfig.cache
+C:\Users\forre\OneDrive\My Documents\IT_232_Software_Class\WorkingWithFiles\obj\Debug\net6.0\ref\WorkingWithFiles.dll
